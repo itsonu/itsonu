@@ -1,33 +1,43 @@
 # Chandrabhushan Prakash
 
-Full Stack Engineer with 5+ years building production systems — mobile apps, web platforms, ERP/CRM solutions, and fintech services.
+> Full Stack Engineer · Building local AI systems that run on your machine, not someone else's cloud.
 
 ---
 
-## ⚡ What I Build
+## What I'm building right now
 
-- **Multi-service platforms** — payments, recharges, bill payments, travel bookings, e-commerce, integrated chat (PAPA G)
-- **Cross-platform mobile apps** — Flutter, Android Studio
-- **Web applications** — Laravel, React, MERN Stack, CodeIgniter
-- **ERP & CRM systems** — HRMS modules, recruitment workflows, enterprise backends
-- **RESTful APIs** — secure, scalable, production-grade
+**Synkage** — A situation-aware local AI copilot OS. Runs entirely on-device via Ollama. Multi-agent brain, isekai anime GUI, ChromaDB memory, zero cloud dependency.
 
----
-
-## 🛠 Stack
-
-**Mobile:** Flutter · Android Studio  
-**Frontend:** React · HTML · CSS · JavaScript · Bootstrap · Tailwind  
-**Backend:** Laravel · CodeIgniter · Node.js · PHP  
-**Database:** MySQL · Firebase  
-**Other:** Git · REST APIs · ERP · HRMS
+- [`synkage-os`](https://github.com/itsonu/synkage-os) — Core system: brain, agents, adapters, GUI shell
+- [`synkage-memory`](https://github.com/itsonu/synkage-memory) — Local vector memory, episodic logs, knowledge base, night-cycle consolidation
 
 ---
 
-## 💼 Experience
+## What I build professionally
+
+- Multi-service platforms — payments, recharges, bill payments, travel, e-commerce, integrated chat
+- Cross-platform mobile apps — Flutter, Android Studio
+- Web applications — Laravel, React, MERN Stack, CodeIgniter
+- ERP & CRM systems — HRMS, recruitment workflows, enterprise backends
+- RESTful APIs — secure, scalable, production-grade
+
+---
+
+## Stack
+
+**Mobile** · Flutter · Android Studio  
+**Frontend** · React · JavaScript · Tailwind · Bootstrap  
+**Backend** · Laravel · CodeIgniter · Node.js · PHP  
+**Database** · MySQL · Firebase  
+**AI/Local** · Python · Ollama · ChromaDB · WebSocket  
+**Other** · Git · REST APIs · ERP · HRMS
+
+---
+
+## Experience
 
 | Company | Role | Period |
-|---|---|---|
+|---------|------|--------|
 | Sankram Ayurveda Pvt Ltd | Full Stack Developer | Feb 2025 – Present |
 | Enexa IT Solutions | Full Stack Developer | Jul 2024 – Jan 2025 |
 | AZSM Enterprises | Full Stack Developer | Jan 2023 – Jun 2024 |
@@ -36,29 +46,29 @@ Full Stack Engineer with 5+ years building production systems — mobile apps, w
 
 ---
 
-## 🚀 Notable Work
+## Notable Work
 
-**PAPA G** — Multi-service platform with payments, recharges, bill payments, travel bookings, service solutions (doctor appointments, etc.), e-commerce, and integrated chat. Built with Flutter + CodeIgniter 3 + RESTful APIs.
+**PAPA G** — Multi-service platform with payments, recharges, bill payments, travel, doctor appointments, e-commerce, and integrated chat. Flutter + CodeIgniter 3 + RESTful APIs.
 
 **PTE Coaching Platform** — Migrated legacy Laravel monolith to Laravel API + React frontend. Added new modules and features.
 
-**YouTube-like Streaming Platform** — Contributed to web version, optimized shorts player and home layout.
+**YouTube-like Streaming Platform** — Web version. Optimized shorts player and home layout.
 
-**PhonePe-inspired Payment App** — Built in Android Studio from scratch.
+**PhonePe-inspired Payment App** — Built from scratch in Android Studio.
 
-**Job Vacancy Forum + Mock Interview Module** — ERP-integrated recruitment system with job listings.
-
----
-
-## 🎓 Education
-
-- **MCA** — Indira Gandhi National Open University *(2025 – 2027, Ongoing)*
-- **BCA** — L.N. College, Bhagwanpur Bihar *(2021 – 2024)*
+**Job Vacancy Forum + Mock Interview Module** — ERP-integrated recruitment system.
 
 ---
 
-## 🔗 Connect
+## Education
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/techsoftsk/)
-- 📧 techsoftsk@gmail.com
-- 📍 Bihar, India
+- MCA · Indira Gandhi National Open University · 2025–2027 (Ongoing)
+- BCA · L.N. College, Bhagwanpur Bihar · 2021–2024
+
+---
+
+## Connect
+
+📧 techsoftsk@gmail.com  
+📍 Bihar, India  
+💼 [LinkedIn](https://linkedin.com)
