@@ -36,6 +36,7 @@ Production software — identity, warehouse systems, catalog data.<br>
 |:--|:--|:--:|
 | **[`flutter-lamp`](https://github.com/itsonu/flutter-lamp)** | Gives an AI live eyes on a running Flutter app. MCP server over the Dart VM Service — exceptions with stack traces, logs, network, frames, memory, root-cause diagnosis, live dashboard. | `MIT` |
 | **[`contractpal`](https://github.com/itsonu/contractpal)** | Photograph a confusing letter, get back what it actually says in plain words. Zero document retention, enforced in code. | `AGPL-3.0` |
+| **[`open-transfer`](https://github.com/itsonu/open-transfer)** | AirDrop for every device. Share files between phone, laptop and anything else on your Wi‑Fi, straight from the browser — no app, no account, no cloud. Self-hostable. | `MIT` |
 | **[`novel-reader`](https://github.com/itsonu/novel-reader)** | Reader for novels written in markdown, with better reading controls than a word processor's read-aloud. *Hobby project.* | `MIT` |
 
 ---
