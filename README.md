@@ -1,27 +1,47 @@
+<div align="center">
+
 # Chandrabhushan Prakash
 
-> Production software — identity, warehouse systems, catalog data. 6+ years, self-taught since 2019.
+**SDE-II at Odwen Technologies**
 
-Currently SDE-II at Odwen Technologies. Day to day I write specs and review code; most
-implementation goes through AI coding agents, and I build my own tooling around that workflow.
+Production software — identity, warehouse systems, catalog data.<br>
+6+ years shipping · self-taught since 2019 · Bihar, India
 
-**Flutter · Node · PostgreSQL · React · PHP · Python · AWS**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-techsoftsk-0A66C2?style=flat-square)](https://www.linkedin.com/in/techsoftsk/)
+[![Email](https://img.shields.io/badge/Email-techsoftsk%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:techsoftsk@gmail.com)
+
+</div>
 
 ---
+
+## About
+
+- **Now** — Day to day I write specs and review code.
+- **How** — Most implementation goes through AI coding agents.
+- **Side** — I build my own tooling around that workflow.
+
+## Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
 
 ## Public work
 
-**[`flutter-lamp`](https://github.com/itsonu/flutter-lamp)** — Gives an AI live eyes on a running Flutter app. MCP server over the Dart VM Service: exceptions with stack traces, logs, network, frames, memory, root-cause diagnosis, live dashboard. `MIT`
-
-**[`contractpal`](https://github.com/itsonu/contractpal)** — Photograph a confusing letter, get back what it actually says in plain words. Zero document retention, enforced in code. `AGPL-3.0`
-
-**[`novel-reader`](https://github.com/itsonu/novel-reader)** — Reader for novels written in markdown, with better reading controls than a word processor's read-aloud. Hobby project. `MIT`
+| Project | What it does | License |
+|:--|:--|:--:|
+| **[`flutter-lamp`](https://github.com/itsonu/flutter-lamp)** | Gives an AI live eyes on a running Flutter app. MCP server over the Dart VM Service — exceptions with stack traces, logs, network, frames, memory, root-cause diagnosis, live dashboard. | `MIT` |
+| **[`contractpal`](https://github.com/itsonu/contractpal)** | Photograph a confusing letter, get back what it actually says in plain words. Zero document retention, enforced in code. | `AGPL-3.0` |
+| **[`novel-reader`](https://github.com/itsonu/novel-reader)** | Reader for novels written in markdown, with better reading controls than a word processor's read-aloud. *Hobby project.* | `MIT` |
 
 ---
 
-## Elsewhere
+<div align="center">
 
-The longer version — what I'm building now and how — is on
-**[LinkedIn](https://www.linkedin.com/in/techsoftsk/)**.
+<sub>The longer version — what I'm building now and how — is on <a href="https://www.linkedin.com/in/techsoftsk/"><b>LinkedIn</b></a>.</sub>
 
-📧 techsoftsk@gmail.com · 📍 Bihar, India
+</div>
