@@ -7,7 +7,7 @@
 Production software — identity, warehouse systems, catalog data.<br>
 6+ years shipping · self-taught since 2019 · Bihar, India
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--itsonu.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-itsonu.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-techsoftsk.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://techsoftsk.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-techsoftsk-0A66C2?style=flat-square)](https://www.linkedin.com/in/techsoftsk/)
 [![Email](https://img.shields.io/badge/Email-techsoftsk%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:techsoftsk@gmail.com)
 
